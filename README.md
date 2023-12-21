@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <meta http-equiv="refresh" content="7; url='https://www.github.com'" />
 Hi there! I'm user0-tb.
-I'm can convert Material or AppCompat apps to Material3! Just ask me!
+I can convert Material or AppCompat apps to Material3! Just ask me! (Android Apps)
